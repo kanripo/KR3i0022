@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 宣和北苑貢茶錄
-#+DATE: 2019-03-29 21:25:41.492621
+#+DATE: 2019-03-29 21:25:41.526724
 #+PROPERTY: ID KR3i0022
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 0
 <pb:KR3i0022_WYG_000-1a>¶
 　　欽定四庫全書　　　　　子部九¶
